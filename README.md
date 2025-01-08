@@ -5,6 +5,7 @@ This project explores the intersection of deep learning and neuroscience, focusi
 # Background
 Electroencephalogram (EEG) is a vital diagnostic tool for epilepsy and other brain disorders. It captures brain waves reflecting various states of consciousness and cognitive functions:
 Delta waves (0.5-4 Hz): Deep sleep
+
 Theta waves (4-8 Hz): Light sleep, drowsiness, meditation
 Alpha waves (8-13 Hz): Relaxation
 Beta waves (13-30 Hz): Wakefulness, cognitive tasks
